@@ -1,0 +1,12 @@
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.MahApps.dll
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.MahApps.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps.csprojResolveAssemblyReference.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps_MarkupCompile.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps_MarkupCompile.lref
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\Themes\Generic.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps.g.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps.Properties.Resources.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps.csproj.GenerateResource.Cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps.dll
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps\obj\Debug\DingWK.Restyle.MahApps.pdb

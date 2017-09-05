@@ -1,0 +1,14 @@
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.MahApps.Test.exe.config
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.MahApps.Test.exe
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.MahApps.Test.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test.csprojResolveAssemblyReference.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\MainWindow.g.cs
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\App.g.cs
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test_MarkupCompile.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test_MarkupCompile.lref
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\MainWindow.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test.g.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test.Properties.Resources.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test.csproj.GenerateResource.Cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test.exe
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.MahApps.Test\obj\Debug\DingWK.Restyle.MahApps.Test.pdb

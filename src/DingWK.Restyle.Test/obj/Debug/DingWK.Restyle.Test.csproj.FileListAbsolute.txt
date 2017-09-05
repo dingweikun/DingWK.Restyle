@@ -1,0 +1,15 @@
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.Test.exe.config
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.Test.exe
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.Test.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\MainWindow.g.cs
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\App.g.cs
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test_MarkupCompile.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test_MarkupCompile.lref
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\MainWindow.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test.g.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test.Properties.Resources.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test.csproj.GenerateResource.Cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test.exe
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\App.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle.Test\obj\Debug\DingWK.Restyle.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,48 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:opt="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options">
+
+
+    <Color x:Key="WindowBackgroundColor">#FFFFFF</Color>
+    
+    <Color x:Key="TextColor">#000000</Color>
+
+
+    
+    <SolidColorBrush x:Key="ControlBackground" Color="#FFFFFF" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ControlBackgroundHover" Color="#DDDDDD" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ControlBackgroundPressed" Color="{DynamicResource AccentColor}" />
+    <SolidColorBrush x:Key="ControlBackgroundDisabled" Color="#CCCCCC" opt:Freeze="True"/>
+
+    <SolidColorBrush x:Key="ControlBorder" Color="#CCCCCC" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ControlBorderHover" Color="#CCCCCC" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ControlBorderPressed" Color="{DynamicResource AccentColor}" />
+
+    <SolidColorBrush x:Key="ControlForeground" Color="#333333" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ControlForegroundHover" Color="#333333" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ControlForegroundPressed" Color="{DynamicResource AccentTextColor}" />
+    <SolidColorBrush x:Key="ControlForegroundDisabled" Color="#A1A1A1" opt:Freeze="True"/>
+    
+
+    <!--Button Style-->
+
+    <SolidColorBrush x:Key="ButtonBackground" Color="#FFFFFF" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ButtonBackgroundHover" Color="#DDDDDD" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ButtonBackgroundPressed" Color="{DynamicResource AccentColor}" />
+
+    <SolidColorBrush x:Key="ButtonBorder" Color="#CCCCCC" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ButtonBorderHover" Color="#CCCCCC" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ButtonBorderPressed" Color="{DynamicResource AccentColor}" />
+
+    <SolidColorBrush x:Key="ButtonText" Color="#333333" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ButtonTextHover" Color="#333333" opt:Freeze="True"/>
+    <SolidColorBrush x:Key="ButtonTextPressed" Color="{DynamicResource AccentTextColor}"/>
+    <SolidColorBrush x:Key="ButtonTextDisabled" Color="#A1A1A1" opt:Freeze="True"/>
+
+    <!--ListBox Style-->
+
+
+    
+
+
+</ResourceDictionary>

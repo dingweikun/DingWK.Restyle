@@ -1,0 +1,36 @@
+﻿<Window x:Class="DingWK.Restyle.Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DingWK.Restyle.Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <TabControl>
+        <TabItem Header="Buttons">
+            <StackPanel >
+                <Button Content="Default Button 默认" Width="300" Margin="1" FontWeight="Heavy"/>
+                <Button Content="Disabled Button 无效" Width="300" Margin="1" IsEnabled="False"/>
+                <ToggleButton Content="Default ToggleButton" Width="300" Margin="1" />
+                <ToggleButton Content="Disabled ToggleButton 无效" IsChecked="False" Width="300" Margin="1" IsEnabled="False"/>
+                <ToggleButton Content="Disabled ToggleButton 无效" IsChecked="True"  Width="300" Margin="1" IsEnabled="False"/>
+                <Button Content="Alert 警告" Style="{StaticResource AlertButton}" Width="100" Margin="1"/>
+            </StackPanel>
+        </TabItem>
+        
+        <TabItem Header="ListBox" >
+            <ListBox IsEnabled="True" Padding="10" Width="200" BorderThickness="0,0,1,0">
+                <ListBoxItem Content="test 测试条目"/>
+                <ListBoxItem Content="test 测试条目"/>
+                <ListBoxItem Content="test 测试条目" IsSelected="True"/>
+                <ListBoxItem Content="test 测试条目"/>
+            </ListBox>
+        </TabItem>
+
+
+
+    </TabControl>
+
+
+</Window>

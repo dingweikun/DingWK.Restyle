@@ -1,0 +1,16 @@
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\bin\Debug\DingWK.Restyle.dll
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\bin\Debug\DingWK.Restyle.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle_MarkupCompile.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\Themes\Generic.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle.g.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle.Properties.Resources.resources
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle.csproj.GenerateResource.Cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle.dll
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.dll
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\bin\Debug\DingWK.Restyle.pdb
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\Styles\Button.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\Assets\Font.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\Themes\Light.baml
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\DingWK.Restyle.csprojResolveAssemblyReference.cache
+C:\Users\dwk\Source\Repos\DingWK.Restyle\src\DingWK.Restyle\obj\Debug\Styles\ListBox.baml
